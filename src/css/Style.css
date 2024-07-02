@@ -1,0 +1,21 @@
+/* google font [Noto Sans] */
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.Navigation {
+    width: 100%;
+    min-height: 10vh;
+    background-color: rgba(92, 92, 119, 0.489);
+}
